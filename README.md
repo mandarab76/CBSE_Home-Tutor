@@ -1,4 +1,5 @@
-Home Tutor Hub
+CBSE Home Tutor
+
 ​Your Personal AI-Powered Study Buddy | CBSE & NEP 2020 Aligned.
 
 ​Home Tutor Hub is an interactive, web-based learning platform designed to bridge the gap between traditional textbooks and digital learning. Built specifically for CBSE Class 1 to Class 10 students, it transforms static syllabus content into gamified quizzes, scientific simulations, and critical thinking challenges.
