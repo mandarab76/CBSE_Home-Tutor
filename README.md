@@ -50,7 +50,7 @@ Class 8 Math Mensuration (Cylinder Volume) NCERT Chapter 11
 
 ​1. Clone the repository
 Bash:
-git clone https://github.com/mandarab76/home-tutor-hub
+git clone https://github.com/mandarab76/CBSE_Home-Tutor
 cd home-tutor-hub
 
 2. Create a virtual environment (Optional but recommended)
