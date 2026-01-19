@@ -50,7 +50,7 @@ Class 8 Math Mensuration (Cylinder Volume) NCERT Chapter 11
 
 ​1. Clone the repository
 Bash:
-git clone https://github.com/mandarab76/home-tutor-hub.git
+git clone https://github.com/mandarab76/home-tutor-hub
 cd home-tutor-hub
 
 2. Create a virtual environment (Optional but recommended)
@@ -69,7 +69,7 @@ pip install streamlit pandas matplotlib numpy
 
 5. Run the App
 Bash
-streamlit run tutor_app.py
+streamlit run app.py
 
 🤝 Contribution Guidelines
 ​We welcome contributions! Whether you're a student, teacher, or developer, you can help expand the syllabus.
